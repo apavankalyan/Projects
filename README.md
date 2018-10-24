@@ -1,2 +1,2 @@
-#Myadd
-Thsi is my app.
+#MyApp
+Thsi is my app
